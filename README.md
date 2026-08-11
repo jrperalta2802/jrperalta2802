@@ -26,15 +26,14 @@
   &nbsp;About Me
 </h2>
 
-* ⚛️ Building modern web applications with **React.js**
-* 🔧 Developing backend systems and APIs with **Laravel** and **Flask**
-* 🧠 Working with **Machine Learning**, **Computer Vision**, and Python
-* 📱 Building cross-platform applications using **Flutter**
-* 🗄️ Designing and working with **MySQL** databases
-* 🐳 Containerizing applications with **Docker**
-* ⚙️ Automating workflows and integrations using **n8n**
-* 🚀 Interested in building scalable, practical, and intelligent software solutions
-
+- Building modern web applications with **React.js**
+- Developing backend systems and APIs with **Laravel** and **Flask**
+- Working with **Machine Learning**, **Computer Vision**, and Python
+- Building cross-platform applications using **Flutter**
+- Designing and working with **MySQL** databases
+- Containerizing applications with **Docker**
+- Automating workflows and integrations using **n8n**
+- Interested in building scalable, practical, and intelligent software solutions
 ---
 
 <h2>
