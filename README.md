@@ -77,23 +77,6 @@
 
 ---
 
-## ⚡ Technologies I Work With
-
-```text
-Frontend        React.js
-Backend         Laravel · Flask
-Languages       JavaScript · PHP · Python · Dart
-Machine Learning
-                scikit-learn · PyTorch
-Computer Vision OpenCV
-Mobile          Flutter
-Database        MySQL
-DevOps          Docker
-Automation      n8n
-```
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
