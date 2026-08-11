@@ -1,4 +1,4 @@
-# Hi, I'm Jr Peralta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi, I'm Jr Peralta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,7 +16,15 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2>
+  <img
+    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
+    width="32"
+    height="32"
+    align="absmiddle"
+  />
+  &nbsp;About Me
+</h2>
 
 * ⚛️ Building modern web applications with **React.js**
 * 🔧 Developing backend systems and APIs with **Laravel** and **Flask**
@@ -29,7 +37,15 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2>
+  <img
+    src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif"
+    width="32"
+    height="32"
+    align="absmiddle"
+  />
+  &nbsp;Tech Stack
+</h2>
 
 ### Frontend
 
@@ -77,7 +93,15 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2>
+  <img
+    src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif"
+    width="32"
+    height="32"
+    align="absmiddle"
+  />
+  &nbsp;GitHub Stats
+</h2>
 
 <p align="center">
   <img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
@@ -94,7 +118,15 @@
 
 ---
 
-## 🐍 Contribution Activity
+<h2>
+  <img
+    src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif"
+    width="32"
+    height="32"
+    align="absmiddle"
+  />
+  &nbsp;Contribution Activity
+</h2>
 
 <p align="center">
   <picture>
@@ -115,7 +147,15 @@
 
 ---
 
-## 📫 Connect With Me
+<h2>
+  <img
+    src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif"
+    width="38"
+    height="38"
+    align="absmiddle"
+  />
+  &nbsp;Connect With Me
+</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jrperalta2802/">
