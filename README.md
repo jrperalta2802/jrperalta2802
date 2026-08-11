@@ -98,17 +98,16 @@ Automation      n8n
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=jrperalta2802&show_icons=true&theme=github_dark&hide_border=true"
+    width="48%"
+    src="./profile/stats.svg"
     alt="GitHub Stats"
   />
 
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrperalta2802&layout=compact&theme=github_dark&hide_border=true"
- alt="Top Languages"
-/>
-
+  <img
+    width="48%"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
 </p>
 
 ---
