@@ -67,7 +67,12 @@
 
 **Libraries & Tools**
 
-`scikit-learn` · `OpenCV` · `PyTorch`
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
 
 ### Mobile Development
 
@@ -89,7 +94,12 @@
 
 **Automation**
 
-`n8n`
+<p>
+  <img
+    src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
+    alt="n8n"
+  />
+</p>
 
 ---
 
