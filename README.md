@@ -80,25 +80,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    width="48%"
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="48%"
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-  />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
   <img
+    width="60%"
     src="https://streak-stats.demolab.com?user=jrperalta2802&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
   />
