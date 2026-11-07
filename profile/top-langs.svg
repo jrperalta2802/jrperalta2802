@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="156.13"
+          width="156.11"
           height="8"
           fill="#4F5D95"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="156.13"
+          x="156.11"
           y="0"
-          width="145.53"
+          width="145.56"
           height="8"
           fill="#3178c6"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="301.65999999999997"
+          x="301.67"
           y="0"
-          width="89.89"
+          width="89.88"
           height="8"
           fill="#f1e05a"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="391.54999999999995"
+          x="391.55"
           y="0"
-          width="29.79"
+          width="29.78"
           height="8"
           fill="#f7523f"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="421.34"
+          x="421.33000000000004"
           y="0"
           width="23.05"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="444.39"
+          x="444.38000000000005"
           y="0"
           width="15.620000000000001"
           height="8"
@@ -198,14 +198,14 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 32.34%
+        TypeScript 32.35%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 19.98%
+        JavaScript 19.97%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
